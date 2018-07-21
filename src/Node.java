@@ -1,8 +1,8 @@
 
 public class Node<E> {
-	private E data;   //数据域
-    private Node<E> left;  //左孩子
-    private Node<E> right;  //右孩子
+	private E data;   
+    private Node<E> left;  
+    private Node<E> right; 
     
     Node(){}
     
