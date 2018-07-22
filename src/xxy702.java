@@ -157,6 +157,7 @@ public class xxy702 {
 		return select;	
 	}
 	
+	// Initial the tree
 	public static Node[] initial(int lambda, int n, int m) {
 		Node[] population = new Node[lambda];
 		Random random = new Random();
